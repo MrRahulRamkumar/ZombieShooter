@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\DeadSceneScript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\ZombieController1.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AimScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ZombieController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GunScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AmmoDropScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MenuScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HighScoreScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DeadSceneScript.cs" Line="13" Column="113" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
